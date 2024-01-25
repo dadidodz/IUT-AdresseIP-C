@@ -2,5 +2,3 @@ Project M2101 ayant pour but de décrypter et de connaitre toutes les caractéri
 
 Guillaume Nesensohn
 Dorian Blatière
-
-https://framagit.org/GuillaumeNes/project_m2101
